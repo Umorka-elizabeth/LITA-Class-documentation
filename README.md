@@ -10,5 +10,13 @@ of assets or revenue, or the deliberate overstatement of liabilities or expenses
 because the financial statements would not be neutral and, therefore, not have
 the quality of reliability.
 ### Data Source
-The primary source of Data used is mainly Ican pack and this is an open source data that can be freely downloaded from Ican portal or any other repository site
+The primary source of Data used is mainly Ican pack and this is an open source data that can be freely downloaded from Ican portal or any other repository site.
+
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization
+- SQL - Structured Query Language for Querying of Data
+- GitHub for Portfolio Building
 
