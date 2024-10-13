@@ -2,6 +2,11 @@
 
 ### Project Title: Data Analysis on Excel
 
+   [Project Overview](#project-overview)
+Data Entry in Excel
+Excel Functions
+
+
 ### Project Overview
 ---
 This Data Analysis revolves around creating reports in excel. This project aims to collect and clean data, explore and visualize data, analyze data and tell compelling stories with data.This we achieved from data entry to various excel functions down to pivot table for reporting data collected.
