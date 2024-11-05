@@ -15,16 +15,17 @@ This Data Analysis revolves around creating reports in excel. This project aims 
 ### Data Entry in Excel
 ---
 This is the process of entering data on excel sheet. In data entry, we use the Tab key to move to the next column, and Enter key to the next line.
-Form table is a very good channel to input new data. This tool can be found on the acess toolbar of an excel sheet. There are various mshortcut on data enttry, among them are listed below;
-To include a row or column, alight one, then press control shift + while you delete when you press control shift - after highlight.
-To switch between two sheets, press Alt tab. Ctrl space bar is used to alight workbook, while shift space bar to alight a row anywhere on excel.
-Data Entry can be validated. This is a means of control on data. It can be done on an amount of tansactions, date of transaction etc.
-To validate text on excel, alight the text then click on data validation on the data table or press Alt AVV for data validation.
+Form table is a very good channel to input new data. This tool can be found on the acess toolbar of an excel sheet. There are various shortcuts on data entry, among them are listed below;
+* To include a row or column, alight one, then press control shift + while you delete with control shift - after highlight.
+* To switch between two sheets, press Alt Tab.
+* Ctrl space bar is used to alight workbook, while shift space bar to alight a row anywhere on excel.
+Data Entry can be validated. This is a means of data control. It can be done on an amount of tansactions, date of transaction etc.
+To validate text on excel, alight the text then click on data validation on the Data table or press Alt AVV for data validation.
 To clear validation, click Alt AVV and click clear button.
 
 ### Excel Functions
 ---
-Functions in Excel are numerous, they are about eight hundred to a thousand. Listed below are few exce; functions;
+Functions in Excel are numerous, they are about eight hundred to a thousand. Listed below are few excel functions;
 1. Grand Total = Sum()
 2. Average = AVG()
 3. Highest = Max()
@@ -60,9 +61,13 @@ The primary source of Data used here is a typical company data as it relates to 
   2. For Analysis
   3. For Data Visualization
      
-- SQL - Structured Query Language for Storing Data
-
-- Github for Portfolio Building
+- SQL - Structured Query Language for Quering of Data
+  
+  ```SQL
+  Select * from Employee Table
+  where state_of_origin = 'Lagos'
+  ```
+ ### Github for Portfolio Building
 
 ### Data Cleaning and Preparation
 ---
@@ -93,8 +98,6 @@ South West	169,730
 Grand Total	786,678.00
 
 ![image](https://github.com/user-attachments/assets/e8825fd1-575e-4e7b-8624-68b9c76f0948)
-
-
 
 
 ![image](https://github.com/user-attachments/assets/6c6bf208-2f3e-4347-bc34-be5588b5c540)
